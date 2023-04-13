@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  5 13:19:08 2020
-
-Homework answers for lesson 4 of "Friends of Tracking" #FoT
+based on lesson 4 of "Friends of Tracking" #FoT and lesson from Laurie Shaw (@EightyFivePoint)
 
 Data can be found at: https://github.com/metrica-sports/sample-data
-
-@author: Laurie Shaw (@EightyFivePoint)
 """
 
 import Metrica_IO as mio
 import Metrica_Viz as mviz
 
 # set up initial path to data
-DATADIR = '/PATH/TO/WHERE/YOU/SAVED/THE/SAMPLE/DATA'
+DATADIR = '/Users/milesvollmer/Documents/sample-data-master/data'
 game_id = 2 # let's look at sample match 2
 
 # read in the event data
