@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-based on lesson 4 of "Friends of Tracking" #FoT and lesson from Laurie Shaw (@EightyFivePoint)
+based on lesson 4 of "Friends of Tracking" #FoT by Laurie Shaw (@EightyFivePoint)
 
 Data can be found at: https://github.com/metrica-sports/sample-data
 """
